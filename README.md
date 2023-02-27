@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHUBASHINI-M
 - 👀 I’m interested in CODING 
-- 🌱 I’m currently learning ML & DL
+- 🌱 I’m currently learning UI / UX DESIGNING 
 - 📫 How to reach me - https://www.linkedin.com/in/shubashini-muthukumaran-55b884140
 
 <!---
